@@ -1,2 +1,2 @@
-# github_jenkins_test
-github_jenkins_test
+# jenkinsdemo
+用于测试jenkins持续构建服务
